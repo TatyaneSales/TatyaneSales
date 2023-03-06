@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Tecnologias que eu uso
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanesales&layout=compact)](https://github.com/tatyanesales/github-readme-stats)
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
