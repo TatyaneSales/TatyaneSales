@@ -1,6 +1,6 @@
 ### Olá eu sou Tatyane Sales! 👋
 
-🌱 Estou estudando para ser uma a desenvolvera Salesforce.
+🌱 Estou estudando para ser desenvolvera Salesforce.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tatyanesales)
 
